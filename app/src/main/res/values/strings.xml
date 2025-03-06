@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListaComida</string>
+    <string name="desayuno">Desayunos en familia</string>
+    <string name="hamburger">Hamburguesa extra grande</string>
+    <string name="pizza">Pizza a la orden</string>
+    <string name="postre">Disfruta de tu postre</string>
+    <string name="pozole">Cualquier dia es noche mexicana con pozole</string>
+    <string name="tacos">Tacos de guisado</string>
+</resources>
